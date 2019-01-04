@@ -1,0 +1,11 @@
+{
+  "name": "ged2json",
+  "version": "1.0.0",
+  "description": "Convert GED files to JSON objects to be persistsed to some backend service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srayner@gmail.com",
+  "license": "ISC"
+}
